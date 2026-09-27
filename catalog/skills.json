@@ -9,8 +9,9 @@
     "dependencies": "Python 3、PDF 提取与视觉读取；Zotero connector 或本地 Zotero 数据目录",
     "upstream": null,
     "license_note": "本地维护快照；原目录未单独声明许可证，上游来源与开放许可待维护者补充。",
-    "package": "packages/zotero-paper-reader.zip",
-    "snapshot_date": "2026-09-27"
+    "package": "packages/01-zotero-paper-reader.zip",
+    "snapshot_date": "2026-09-27",
+    "number": 1
   },
   {
     "id": "paper-analyzer",
@@ -22,8 +23,9 @@
     "dependencies": "PDF 与网页读取；需要代码分析时使用 Git；HTML 交给 md-to-html",
     "upstream": "https://github.com/zsyggg/paper-craft-skills",
     "license_note": "上游 README 声明 MIT；包内附 MIT 文本及来源记录，上游未提供独立 LICENSE 文件。",
-    "package": "packages/paper-analyzer.zip",
-    "snapshot_date": "2026-09-27"
+    "package": "packages/02-paper-analyzer.zip",
+    "snapshot_date": "2026-09-27",
+    "number": 2
   },
   {
     "id": "brainstorming-research-ideas",
@@ -35,8 +37,9 @@
     "dependencies": "核心为指令；文献核实时需要检索工具",
     "upstream": "https://github.com/Orchestra-Research/AI-Research-SKILLs/tree/main/21-research-ideation/brainstorming-research-ideas",
     "license_note": "MIT；包含上游 LICENSE。会议模板和随附文件保留其原有声明。",
-    "package": "packages/brainstorming-research-ideas.zip",
-    "snapshot_date": "2026-09-27"
+    "package": "packages/04-brainstorming-research-ideas.zip",
+    "snapshot_date": "2026-09-27",
+    "number": 4
   },
   {
     "id": "clarify-research-idea",
@@ -48,8 +51,9 @@
     "dependencies": "文献检索；图形规划使用 Mermaid 等可用工具",
     "upstream": null,
     "license_note": "本地维护快照；原目录未单独声明许可证，上游来源与开放许可待维护者补充。",
-    "package": "packages/clarify-research-idea.zip",
-    "snapshot_date": "2026-09-27"
+    "package": "packages/06-clarify-research-idea.zip",
+    "snapshot_date": "2026-09-27",
+    "number": 6
   },
   {
     "id": "academic-plotting",
@@ -61,8 +65,9 @@
     "dependencies": "matplotlib、seaborn、numpy；Gemini 路线另需 google-genai 与服务凭据",
     "upstream": "https://github.com/Orchestra-Research/AI-Research-SKILLs/tree/main/20-ml-paper-writing/academic-plotting",
     "license_note": "MIT；包含上游 LICENSE。会议模板和随附文件保留其原有声明。",
-    "package": "packages/academic-plotting.zip",
-    "snapshot_date": "2026-09-27"
+    "package": "packages/07-academic-plotting.zip",
+    "snapshot_date": "2026-09-27",
+    "number": 7
   },
   {
     "id": "drawio-skill",
@@ -74,8 +79,9 @@
     "dependencies": "图片/PDF 导出需要 draw.io Desktop；自动布局按需使用 Graphviz；部分脚本需要 Python",
     "upstream": "https://github.com/Agents365-ai/drawio-skill",
     "license_note": "MIT；图形索引的 Apache-2.0 声明和许可随包保留。",
-    "package": "packages/drawio-skill.zip",
-    "snapshot_date": "2026-09-27"
+    "package": "packages/08-drawio-skill.zip",
+    "snapshot_date": "2026-09-27",
+    "number": 8
   },
   {
     "id": "ml-paper-writing",
@@ -87,8 +93,9 @@
     "dependencies": "按引用流程使用文献检索或 Python 库；会议模板使用对应 TeX 环境",
     "upstream": "https://github.com/Orchestra-Research/AI-Research-SKILLs/tree/main/20-ml-paper-writing/ml-paper-writing",
     "license_note": "MIT；包含上游 LICENSE。会议模板和随附文件保留其原有声明。",
-    "package": "packages/ml-paper-writing.zip",
-    "snapshot_date": "2026-09-27"
+    "package": "packages/11-ml-paper-writing.zip",
+    "snapshot_date": "2026-09-27",
+    "number": 11
   },
   {
     "id": "systems-paper-writing",
@@ -100,8 +107,9 @@
     "dependencies": "写作以指令和参考文件为主；引用与排版可配合 ml-paper-writing",
     "upstream": "https://github.com/Orchestra-Research/AI-Research-SKILLs/tree/main/20-ml-paper-writing/systems-paper-writing",
     "license_note": "MIT；包含上游 LICENSE。会议模板和随附文件保留其原有声明。",
-    "package": "packages/systems-paper-writing.zip",
-    "snapshot_date": "2026-09-27"
+    "package": "packages/12-systems-paper-writing.zip",
+    "snapshot_date": "2026-09-27",
+    "number": 12
   },
   {
     "id": "humanizer",
@@ -113,8 +121,9 @@
     "dependencies": "核心为 Markdown 指令",
     "upstream": "https://github.com/blader/humanizer",
     "license_note": "MIT；保留本地随附 LICENSE。",
-    "package": "packages/humanizer.zip",
-    "snapshot_date": "2026-09-27"
+    "package": "packages/13-humanizer.zip",
+    "snapshot_date": "2026-09-27",
+    "number": 13
   },
   {
     "id": "academic-figure-prompt",
@@ -126,8 +135,9 @@
     "dependencies": "提示词阶段不需 API；图像生成由选定服务完成",
     "upstream": null,
     "license_note": "本地维护快照；原目录未单独声明许可证，上游来源与开放许可待维护者补充。",
-    "package": "packages/academic-figure-prompt.zip",
-    "snapshot_date": "2026-09-27"
+    "package": "packages/14-academic-figure-prompt.zip",
+    "snapshot_date": "2026-09-27",
+    "number": 14
   },
   {
     "id": "paper-comic",
@@ -139,8 +149,9 @@
     "dependencies": "可用的图像生成服务；先依据论文核实图解内容",
     "upstream": "https://github.com/zsyggg/paper-craft-skills",
     "license_note": "上游 README 声明 MIT；包内附 MIT 文本及来源记录，上游未提供独立 LICENSE 文件。",
-    "package": "packages/paper-comic.zip",
-    "snapshot_date": "2026-09-27"
+    "package": "packages/15-paper-comic.zip",
+    "snapshot_date": "2026-09-27",
+    "number": 15
   },
   {
     "id": "paper-deck",
@@ -152,8 +163,9 @@
     "dependencies": "图像生成服务；Pillow、python-pptx 用于合成",
     "upstream": "https://github.com/zsyggg/paper-craft-skills",
     "license_note": "上游 README 声明 MIT；包内附 MIT 文本及来源记录，上游未提供独立 LICENSE 文件。",
-    "package": "packages/paper-deck.zip",
-    "snapshot_date": "2026-09-27"
+    "package": "packages/16-paper-deck.zip",
+    "snapshot_date": "2026-09-27",
+    "number": 16
   },
   {
     "id": "html-copy-studio",
@@ -165,8 +177,9 @@
     "dependencies": "Node.js 与 marked；脚本支持 --modules-dir 指定模块目录",
     "upstream": null,
     "license_note": "本地维护快照；原目录未单独声明许可证，上游来源与开放许可待维护者补充。",
-    "package": "packages/html-copy-studio.zip",
-    "snapshot_date": "2026-09-27"
+    "package": "packages/17-html-copy-studio.zip",
+    "snapshot_date": "2026-09-27",
+    "number": 17
   },
   {
     "id": "md-to-html",
@@ -178,8 +191,9 @@
     "dependencies": "Python 3 与 Pandoc；公式和 Mermaid 默认使用 CDN",
     "upstream": null,
     "license_note": "本地维护快照；原目录未单独声明许可证，上游来源与开放许可待维护者补充。",
-    "package": "packages/md-to-html.zip",
-    "snapshot_date": "2026-09-27"
+    "package": "packages/18-md-to-html.zip",
+    "snapshot_date": "2026-09-27",
+    "number": 18
   },
   {
     "id": "doc-coauthoring",
@@ -191,8 +205,9 @@
     "dependencies": "核心为 Markdown 指令",
     "upstream": "https://github.com/anthropics/skills/tree/main/skills/doc-coauthoring",
     "license_note": "上游 README 将多项示例技能描述为 Apache-2.0；此技能目录未附独立许可，具体适用许可待核实。",
-    "package": "packages/doc-coauthoring.zip",
-    "snapshot_date": "2026-09-27"
+    "package": "packages/19-doc-coauthoring.zip",
+    "snapshot_date": "2026-09-27",
+    "number": 19
   },
   {
     "id": "canvas-design",
@@ -204,8 +219,9 @@
     "dependencies": "实际绘图工具；安装包包含字体及各自 OFL 声明",
     "upstream": "https://github.com/anthropics/skills/tree/main/skills/canvas-design",
     "license_note": "保留 Apache-2.0 LICENSE.txt；字体分别保留 OFL 声明。",
-    "package": "packages/canvas-design.zip",
-    "snapshot_date": "2026-09-27"
+    "package": "packages/20-canvas-design.zip",
+    "snapshot_date": "2026-09-27",
+    "number": 20
   },
   {
     "id": "docx",
@@ -218,6 +234,7 @@
     "upstream": "https://github.com/anthropics/skills/tree/main/skills/docx",
     "license_note": "现有许可限制复制、衍生和再分发；仓库提供来源与获取说明。",
     "package": null,
-    "snapshot_date": "2026-09-27"
+    "snapshot_date": "2026-09-27",
+    "number": 21
   }
 ]

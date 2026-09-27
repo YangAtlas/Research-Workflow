@@ -1,9 +1,10 @@
-# clarify-research-idea
+# 06 · clarify-research-idea
 
 任务、假设与方法方案澄清。
 
 | 项目 | 说明 |
 |---|---|
+| 序号 | 06 |
 | 流程位置 | 输出一 |
 | 使用建议 | 主力 |
 | 输入 | 初步问题、相关文献与资源条件 |
@@ -15,7 +16,7 @@
 
 ## 安装
 
-[下载完整安装包](../packages/clarify-research-idea.zip)
+[下载完整安装包](../packages/06-clarify-research-idea.zip)
 
 下载仓库后，也可运行：
 

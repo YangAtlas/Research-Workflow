@@ -1,9 +1,10 @@
-# paper-analyzer
+# 02 · paper-analyzer
 
 独立论文深度解读。
 
 | 项目 | 说明 |
 |---|---|
+| 序号 | 02 |
 | 流程位置 | 输入 |
 | 使用建议 | 按需 |
 | 输入 | PDF、论文链接或全文 |
@@ -15,7 +16,7 @@
 
 ## 安装
 
-[下载完整安装包](../packages/paper-analyzer.zip)
+[下载完整安装包](../packages/02-paper-analyzer.zip)
 
 下载仓库后，也可运行：
 

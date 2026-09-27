@@ -1,9 +1,10 @@
-# academic-plotting
+# 07 · academic-plotting
 
 实验数值图与学术图形。
 
 | 项目 | 说明 |
 |---|---|
+| 序号 | 07 |
 | 流程位置 | 验证 |
 | 使用建议 | 主力 |
 | 输入 | 真实实验数据或方法描述 |
@@ -15,7 +16,7 @@
 
 ## 安装
 
-[下载完整安装包](../packages/academic-plotting.zip)
+[下载完整安装包](../packages/07-academic-plotting.zip)
 
 下载仓库后，也可运行：
 

@@ -1,9 +1,10 @@
-# ml-paper-writing
+# 11 · ml-paper-writing
 
 ML 与 AI 论文写作。
 
 | 项目 | 说明 |
 |---|---|
+| 序号 | 11 |
 | 流程位置 | 输出二 |
 | 使用建议 | 主力 |
 | 输入 | 研究材料、实验结果与论文草稿 |
@@ -15,7 +16,7 @@ ML 与 AI 论文写作。
 
 ## 安装
 
-[下载完整安装包](../packages/ml-paper-writing.zip)
+[下载完整安装包](../packages/11-ml-paper-writing.zip)
 
 下载仓库后，也可运行：
 

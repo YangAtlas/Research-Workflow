@@ -1,9 +1,10 @@
-# zotero-paper-reader
+# 01 · zotero-paper-reader
 
 Zotero 论文精读与研究库归档。
 
 | 项目 | 说明 |
 |---|---|
+| 序号 | 01 |
 | 流程位置 | 输入 |
 | 使用建议 | 主力 |
 | 输入 | Zotero 条目、PDF 与目标研究库 |
@@ -15,7 +16,7 @@ Zotero 论文精读与研究库归档。
 
 ## 安装
 
-[下载完整安装包](../packages/zotero-paper-reader.zip)
+[下载完整安装包](../packages/01-zotero-paper-reader.zip)
 
 下载仓库后，也可运行：
 

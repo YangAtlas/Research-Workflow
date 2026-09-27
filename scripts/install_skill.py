@@ -24,7 +24,7 @@ def main() -> int:
     if args.list:
         for item in catalog:
             state = "ZIP" if item["package"] else "source link"
-            print(f"{item['id']} [{state}]")
+            print(f"{item['number']:02d} {item['id']} [{state}]")
         return 0
     if not args.skill:
         parser.error("Specify a skill name or --list")

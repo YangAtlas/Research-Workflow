@@ -1,9 +1,10 @@
-# doc-coauthoring
+# 19 · doc-coauthoring
 
 研究方案与项目文档共创。
 
 | 项目 | 说明 |
 |---|---|
+| 序号 | 19 |
 | 流程位置 | 输出二 |
 | 使用建议 | 按需 |
 | 输入 | 背景资料、受众、目的和约束 |
@@ -15,7 +16,7 @@
 
 ## 安装
 
-[下载完整安装包](../packages/doc-coauthoring.zip)
+[下载完整安装包](../packages/19-doc-coauthoring.zip)
 
 下载仓库后，也可运行：
 

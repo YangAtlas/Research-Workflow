@@ -1,9 +1,10 @@
-# canvas-design
+# 20 · canvas-design
 
 静态视觉设计。
 
 | 项目 | 说明 |
 |---|---|
+| 序号 | 20 |
 | 流程位置 | 输出二 |
 | 使用建议 | 备用 |
 | 输入 | 主题、用途和视觉要求 |
@@ -15,7 +16,7 @@
 
 ## 安装
 
-[下载完整安装包](../packages/canvas-design.zip)
+[下载完整安装包](../packages/20-canvas-design.zip)
 
 下载仓库后，也可运行：
 

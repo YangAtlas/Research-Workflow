@@ -1,9 +1,10 @@
-# md-to-html
+# 18 · md-to-html
 
 Markdown 笔记发布为网页。
 
 | 项目 | 说明 |
 |---|---|
+| 序号 | 18 |
 | 流程位置 | 输出二 |
 | 使用建议 | 主力 |
 | 输入 | 已确定的 Markdown/Obsidian 主稿 |
@@ -15,7 +16,7 @@ Markdown 笔记发布为网页。
 
 ## 安装
 
-[下载完整安装包](../packages/md-to-html.zip)
+[下载完整安装包](../packages/18-md-to-html.zip)
 
 下载仓库后，也可运行：
 

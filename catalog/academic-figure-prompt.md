@@ -1,9 +1,10 @@
-# academic-figure-prompt
+# 14 · academic-figure-prompt
 
 学术图形英文生图提示词。
 
 | 项目 | 说明 |
 |---|---|
+| 序号 | 14 |
 | 流程位置 | 输出二 |
 | 使用建议 | 按需 |
 | 输入 | 论文内容、图形需求与配色偏好 |
@@ -15,7 +16,7 @@
 
 ## 安装
 
-[下载完整安装包](../packages/academic-figure-prompt.zip)
+[下载完整安装包](../packages/14-academic-figure-prompt.zip)
 
 下载仓库后，也可运行：
 

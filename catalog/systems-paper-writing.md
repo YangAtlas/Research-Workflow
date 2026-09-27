@@ -1,9 +1,10 @@
-# systems-paper-writing
+# 12 · systems-paper-writing
 
 系统研究论文结构与论证。
 
 | 项目 | 说明 |
 |---|---|
+| 序号 | 12 |
 | 流程位置 | 输出二 |
 | 使用建议 | 主力 |
 | 输入 | 系统设计、实现与测量结果 |
@@ -15,7 +16,7 @@
 
 ## 安装
 
-[下载完整安装包](../packages/systems-paper-writing.zip)
+[下载完整安装包](../packages/12-systems-paper-writing.zip)
 
 下载仓库后，也可运行：
 

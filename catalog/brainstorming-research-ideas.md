@@ -1,9 +1,10 @@
-# brainstorming-research-ideas
+# 04 · brainstorming-research-ideas
 
 研究问题与候选方向发散。
 
 | 项目 | 说明 |
 |---|---|
+| 序号 | 04 |
 | 流程位置 | 思考 |
 | 使用建议 | 主力 |
 | 输入 | 主题综合、研究现象或当前困惑 |
@@ -15,7 +16,7 @@
 
 ## 安装
 
-[下载完整安装包](../packages/brainstorming-research-ideas.zip)
+[下载完整安装包](../packages/04-brainstorming-research-ideas.zip)
 
 下载仓库后，也可运行：
 

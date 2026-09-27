@@ -1,9 +1,10 @@
-# html-copy-studio
+# 17 · html-copy-studio
 
 演示文案与视觉构思工作台。
 
 | 项目 | 说明 |
 |---|---|
+| 序号 | 17 |
 | 流程位置 | 输出二 |
 | 使用建议 | 按需 |
 | 输入 | 逐页文案、演讲稿和可选配图构思 |
@@ -15,7 +16,7 @@
 
 ## 安装
 
-[下载完整安装包](../packages/html-copy-studio.zip)
+[下载完整安装包](../packages/17-html-copy-studio.zip)
 
 下载仓库后，也可运行：
 
